@@ -39,6 +39,13 @@ rooms = {
     }
 }
 
+      "Office": {
+        "description": "Lair of the Nessel.",
+        "exits": {"outside": "Hallway"},
+    }
+}
+
+
 # stores the players in the game
 players = {}
 
