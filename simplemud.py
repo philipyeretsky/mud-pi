@@ -36,9 +36,7 @@ rooms = {
     "Outside": {
         "description": "You're standing outside a tavern. It's raining.",
         "exits": {"inside": "Tavern"},
-    }
-}
-
+    },
       "Office": {
         "description": "Lair of the Nessel.",
         "exits": {"outside": "Hallway"},
