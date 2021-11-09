@@ -41,6 +41,18 @@ rooms = {
         "description": "Lair of the Nessel.",
         "exits": {"outside": "Hallway"},
     }
+   "The Clink": {
+        "description": "Where the school felons are housed.",
+        "exits": {"outside": "Hallway"},
+    }
+   "Art Room": {
+        "description": "A room with a semicircle of tables.",
+        "exits": {"outside": "Hallway", "Kiln Room"},
+    }
+   "Kiln Room": {
+        "description": "A small closet with shelves and a kiln in the back.",
+        "exits": {"outside": "Art Room"},
+   }
 }
 
 
