@@ -53,6 +53,18 @@ rooms = {
         "description": "A small closet with shelves and a kiln in the back.",
         "exits": {"outside": "Art Room"},
    }
+   "Spanish Room 1": {
+        "description": "A room with rows of desks.",
+        "exits": {"outside": "Hallway"},
+   }
+   "Spanish Room 2": {
+        "description": "A room with rows of desks.",
+        "exits": {"outside": "Hallway"},
+   }
+   "History Room 1": {
+        "description": "A room with rows of desks.",
+        "exits": {"outside": "Hallway"},
+   }
 }
 
 
