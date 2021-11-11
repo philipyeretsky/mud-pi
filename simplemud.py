@@ -53,7 +53,15 @@ rooms = {
         "description": "A small closet with shelves and a kiln in the back.",
         "exits": {"outside": "Art Room"},
    }
-}
+   "History Room 1": {
+        "description": "A room with rows of desks and flags on the walls.",
+        "exits": {"Hallway": "Hallway"},
+   }   
+   "History Room 1": {
+        "description": "A room with rows of desks.",
+        "exits": {"Hallway": "Hallway"},
+   }
+} 
 
 
 # stores the players in the game
