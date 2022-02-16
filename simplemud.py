@@ -150,6 +150,8 @@ while True:
                                  + "surroundings, e.g. 'look'")
             mud.send_message(id, "  go <exit>      - Moves through the exit "
                                  + "specified, e.g. 'go outside'")
+            mud.send_message(id, " hide            - 'Prevents player from being detected "
+                            )
 
         # 'say' command
         elif command == "say":
